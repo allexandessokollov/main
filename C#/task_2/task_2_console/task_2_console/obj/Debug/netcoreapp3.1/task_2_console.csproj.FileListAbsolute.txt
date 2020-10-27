@@ -1,0 +1,13 @@
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.csprojAssemblyReference.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.AssemblyInfoInputs.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.AssemblyInfo.cs
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.csproj.CoreCompileInputs.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.exe
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.deps.json
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.runtimeconfig.json
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.runtimeconfig.dev.json
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.dll
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\bin\Debug\netcoreapp3.1\task_2_console.pdb
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.dll
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.pdb
+C:\Users\gushb\Desktop\СТП задачи и теория\task 2\task_2_console\task_2_console\obj\Debug\netcoreapp3.1\task_2_console.genruntimeconfig.cache

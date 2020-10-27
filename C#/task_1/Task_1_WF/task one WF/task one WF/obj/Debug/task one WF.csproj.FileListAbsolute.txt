@@ -1,0 +1,10 @@
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\bin\Debug\task one WF.exe.config
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\bin\Debug\task one WF.exe
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\bin\Debug\task one WF.pdb
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task one WF.csprojAssemblyReference.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task_one_WF.Form1.resources
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task_one_WF.Properties.Resources.resources
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task one WF.csproj.GenerateResource.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task one WF.csproj.CoreCompileInputs.cache
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task one WF.exe
+C:\Users\gushb\Desktop\СТП задачи и теория\Task 1_WF\task one WF\task one WF\obj\Debug\task one WF.pdb

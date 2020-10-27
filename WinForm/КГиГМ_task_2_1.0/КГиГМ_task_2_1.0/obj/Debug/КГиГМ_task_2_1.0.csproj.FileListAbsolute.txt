@@ -1,0 +1,10 @@
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\bin\Debug\КГиГМ_task_2_1.0.exe.config
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\bin\Debug\КГиГМ_task_2_1.0.exe
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\bin\Debug\КГиГМ_task_2_1.0.pdb
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1.0.csprojAssemblyReference.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1._0.Form1.resources
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1._0.Properties.Resources.resources
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1.0.csproj.GenerateResource.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1.0.csproj.CoreCompileInputs.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1.0.exe
+C:\Users\gushb\Desktop\WinForms Projects\КГиГМ_task_2_1.0\КГиГМ_task_2_1.0\obj\Debug\КГиГМ_task_2_1.0.pdb

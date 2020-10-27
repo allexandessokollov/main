@@ -1,0 +1,10 @@
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.csprojAssemblyReference.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.Form1.resources
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.Properties.Resources.resources
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.csproj.GenerateResource.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.csproj.CoreCompileInputs.cache
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\bin\Debug\КГиГм_task_1.exe.config
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\bin\Debug\КГиГм_task_1.exe
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\bin\Debug\КГиГм_task_1.pdb
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.exe
+C:\Users\gushb\Desktop\WinForms Projects\КГиГм_task_1\КГиГм_task_1\obj\Debug\КГиГм_task_1.pdb
